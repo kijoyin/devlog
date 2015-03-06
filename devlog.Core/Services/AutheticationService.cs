@@ -1,14 +1,14 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
-using SPA.Core.ViewModels;
-using SPA.Domain.Repositories;
+using devlog.Core.ViewModels;
+using devlog.Domain.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace SPA.Core.Services
+namespace devlog.Core.Services
 {
     public class AutheticationService:IDisposable
     {

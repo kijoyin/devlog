@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net.Http.Formatting;
 using System.Web.Http;
 
-namespace SPA
+namespace devlog
 {
     public static class WebApiConfig
     {

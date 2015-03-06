@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace SPA.Controllers
+namespace devlog.Controllers
 {
     [RoutePrefix("api/Orders")]
     public class OrdersController : ApiController

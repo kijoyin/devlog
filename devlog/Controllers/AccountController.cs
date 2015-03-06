@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNet.Identity;
-using SPA.Core.Services;
-using SPA.Core.ViewModels;
+using devlog.Core.Services;
+using devlog.Core.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace SPA.Controllers
+namespace devlog.Controllers
 {
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SPA.Domain.Models
+namespace devlog.Domain.Models
 {
     public class UserModel
     {

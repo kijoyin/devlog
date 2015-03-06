@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
-using SPA.Domain.Models;
+using devlog.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SPA.Domain.Repositories
+namespace devlog.Domain.Repositories
 {
     public class AuthRepository : IDisposable
     {

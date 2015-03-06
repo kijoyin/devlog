@@ -1,11 +1,11 @@
-﻿using SPA.Domain.Models;
+﻿using devlog.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace SPA.Core.ViewModels
+namespace devlog.Core.ViewModels
 {
     public class UserViewModel
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SPA.Domain
+namespace devlog.Domain
 {
     public class AuthContext : IdentityDbContext<IdentityUser>
     {

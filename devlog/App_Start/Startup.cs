@@ -1,15 +1,15 @@
 ﻿using Microsoft.Owin;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using SPA.Providers;
+using devlog.Providers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
 
-[assembly: OwinStartup(typeof(SPA.App_Start.Startup))]
-namespace SPA.App_Start
+[assembly: OwinStartup(typeof(devlog.App_Start.Startup))]
+namespace devlog.App_Start
 {
     public class Startup
     {
