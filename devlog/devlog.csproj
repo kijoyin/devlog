@@ -11,8 +11,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SPA</RootNamespace>
-    <AssemblyName>SPA</AssemblyName>
+    <RootNamespace>devlog</RootNamespace>
+    <AssemblyName>devlog</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -140,9 +140,9 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SPA.Core\SPA.Core.csproj">
+    <ProjectReference Include="..\devlog.Core\devlog.Core.csproj">
       <Project>{7f77d1ff-6481-4132-a0c6-df67d6f8f15d}</Project>
-      <Name>SPA.Core</Name>
+      <Name>devlog.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
@@ -170,7 +170,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPA", "SPA\SPA.csproj", "{F0FAD309-BB05-406B-8311-BAB4A90A3598}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devlog", "devlog\devlog.csproj", "{F0FAD309-BB05-406B-8311-BAB4A90A3598}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPA.Domain", "SPA.Domain\SPA.Domain.csproj", "{9D73F894-FC33-4184-A56D-78951CF97107}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devlog.Domain", "devlog.Domain\devlog.Domain.csproj", "{9D73F894-FC33-4184-A56D-78951CF97107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPA.Core", "SPA.Core\SPA.Core.csproj", "{7F77D1FF-6481-4132-A0C6-DF67D6F8F15D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devlog.Core", "devlog.Core\devlog.Core.csproj", "{7F77D1FF-6481-4132-A0C6-DF67D6F8F15D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
